@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: https://cdn.jsdelivr.net/gh/dgdghub/dg-pic@main/blog/202502250845172.png
-heroText: AiEDU
+heroText: ''
 tagline: 知识改变命运，AI改变知识
 actionText: 快速上手 →
 actionLink: https://985188.xyz
