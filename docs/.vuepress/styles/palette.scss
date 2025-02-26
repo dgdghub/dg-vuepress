@@ -1,14 +1,14 @@
 // 修改导航栏背景色
-.navbar {
+$navbar-background: {
   background-color: #086b61; // 替换为你想要的颜色
 }
 
 // 修改导航栏文字颜色
-.navbar .links {
+$navbar-links {
   color: #d2e2df; // 替换为与背景色搭配的文字颜色
 }
 
 // 修改导航栏链接悬停颜色
-.navbar .links a:hover {
+$navbar-links-a-hover {
   color: #ffffff; // 替换为悬停时的颜色
 }
